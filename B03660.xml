@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto the right honourable, the Lords of His Majesties Privie Council, the petition of Sir John Hill late collonel of the regiment at Fort-William.</title>
+            <author>Hill, John, Sir, fl. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03660</idno>
+            <idno type="STC">Wing H1997A</idno>
+            <idno type="STC">ESTC R178156</idno>
+            <idno type="EEBO-CITATION">52614699</idno>
+            <idno type="OCLC">ocm 52614699</idno>
+            <idno type="VID">175905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175905)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2754:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto the right honourable, the Lords of His Majesties Privie Council, the petition of Sir John Hill late collonel of the regiment at Fort-William.</title>
+                  <author>Hill, John, Sir, fl. 1700.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperferct: tightly bound, with some loss of text.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hill, John, --  Sir, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Cathcart, Allan, --  Captain, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Menzies, James, --  Captain, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Hamilton, Thomas, --  Captain, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800</term>
+               <term>Scotland. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:175905:1"/>
+            <pb n="1" facs="tcp:175905:1"/>
+            <head>Unto the right Honourable, the Lords of His Ma<g ref="char:EOLhyphen"/>jeſties moſt Honourable Privy Council, <hi>The PETITION of</hi> Sir <hi>John Hill</hi> late Collonel of the Regiment at <hi>Fort-William.</hi>
+            </head>
+            <p>
+               <hi>Humbly ſheweth,</hi>
+            </p>
+            <p>THat whereas Captain <hi>Allan Catheart,</hi> Captain <hi>James Menȝies,</hi> and Captain <hi>Thomas Hamilton,</hi> Officers in your Petitioners late Regiment, having preſented a Petiti<g ref="char:EOLhyphen"/>on to the Lords of his Majeſties Privy Council, alledging that I, my Lieutenant Collonel and <hi>John Forbes</hi> my Factor, had detained in their hands a conſiderable part of the ſaids Captains their pay unaccounted for, pointing at the ſeveral Sums received by the Lieutenant Collonel, for defraying the Expences of his ſeveral journeys to <hi>London</hi> in the Regiments Service, and that he had benefited himſelf by the ſaids journeys, and did little or no ſervice to the Regiment. And they alſo crave that <hi>John Forbes</hi> may be ordai<g ref="char:EOLhyphen"/>ned to produce the Compt Books and Bills of the Regiment, all which matter your Lord<g ref="char:EOLhyphen"/>ſhips has remitted to a Committee to hear both parties Procurators, and to report. Your Petitioner with all humility, begs leave to repreſent how groundleſs this Complaint is, and alſo to State the true ſteps of my Adminiſtration of the Regiments Affair, as follows.</p>
+            <p n="1">1. Your Petitioner eſtabliſhed Mr. <hi>Forbes</hi> as his Factor for uplifting the Regiments pay from the general Receivers, and to remit the ſame either in <hi>ſpecie.</hi> or to anſwer ſuch Bills, as I, or any I ſhould impower, to draw upon him from <hi>Inverneſe</hi> or elſe where, and which Money, either remitted by Bill or otherways, was always given to theſe appointed to pay out of the Weekly pay of the reſpective. Companies of the Regiment, lying in Gariſon at <hi>Fort-William</hi> or elſe where, and the ſaid Mr. <hi>Forbes</hi> came up from <hi>Edinburgh</hi> to <hi>Fort Wil<g ref="char:EOLhyphen"/>liam,</hi> ſometimes twice, and always once every year, and compted fully and fairly for his Intromiſſions, and delivered to the commanding Officer of each Company a ſtated accompt of Charge and Diſcharge, and delivered to them a Credential or Receipt under their own hands of the Article that was payed out by him, and Mr. <hi>Corsbie</hi> and <hi>John Grant</hi> who were the diſpenſers of the Money remitted in manner foreſaid to the Gariſon and Pay maſters of the Weekly pay of the whole Companies of the Regiment. Compted alſo for their Intromiſſions at the ſaid time: and produced their Books, wherein were inſert a Re<g ref="char:EOLhyphen"/>ceipt, either by the commanding Officer of each Company himſelf, or by thoſe they autho<g ref="char:EOLhyphen"/>rized to uplift their Companies pay Weekly, for every Article ſtated in their Diſcharge, and the foreſaids receipts were immediatly after peruſal, and Examination cancelled by the Officers themſelves, leſt they ſhould be probative againſt them at the next compting, where<g ref="char:EOLhyphen"/>upon Compting being ſo fairly ſtated, Receipt delivered up, Bookscancelled as ſaid is, the ſaid Mr. <hi>Forbes</hi> obtained a full and ample Diſcharge from the commanding Officer of each Company, o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their own Companies, and <hi>ſubalterns</hi> full pay, diſcharging him and all others of all Accompts preceeding the dates of the ſaids reſpective Diſcharges, which Diſcharges the ſaid Mr. <hi>Forbes</hi> reported to me, and at the ſame time made up the Accompts of the Cloathing, and it any ballance was, the ſame by my order was delivered in to the Pay-maſter for Subſiſting the Regiment, till more Money ſhould come up, and for defraying the Expences of the Emergencies and Exigencies of the Regiment, and after peruſal of the foreſaid Diſcharges and Examination of the Cloathing Accompts, being all verified by in<g ref="char:EOLhyphen"/>ſtructions and credentials unconteſtable, I accordingly gave to the ſaid Mr. <hi>Forbes</hi> his full and ample Dicharge with a clauſe of Regiſtration, Diſcharging him and all others of their Intromiſſions, preceeding the date of the ſaid Diſcharge, and all the Captains of the Re<g ref="char:EOLhyphen"/>giment at every Compting received ſtated Abſtracts of all their Pay by way of principal
+<pb n="2" facs="tcp:175905:2"/>and Additional Accompt, which was payed to them by Mr. <hi>Forbes</hi> and the Pay-ma<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at the Gariſon, which Accompts if they will but produce before your Lordſhips, ye <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not only eaſiely perceive how unjuſt the Complainers are, but alſo that every Office<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Regiment has received all the King allows them, by the eſtabliſhment, and not ſixpence detained from them for any contigencie of the Regiments Expences whatſoeue<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> So that it ſurprizes your Petitioner, how any Complaint ſhould be ſuſtained, after ſo<g ref="char:EOLunhyphen"/>lemn a way of Tranſacting matters by Compt and reckoning, and Diſcharges.</p>
+            <p n="2">2. Your Petitioner as being Collonel to the Regiment, had the undoubted and ab<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lute Right of diſpoſing of the Retention-Money; not only for the Cloathing, but fo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther neceſſary uſes in relation to the Regiment; for by the conſtant practice of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Scots</hi> Forces abroad and at home, and by His Majeſties ſpecial Deciſions, if any Col<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>el keep his Regiment in good order, well Mounted with all neceſſar Abuilȝiments fo<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Souldier whatſomever; If by the Collonels care and Induſtery, any thing be ſaved <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Cloathing Money, it belonged to the Collonel as his juſt perquiſit, and an Rew<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for his extraordinary care and Diligence, and Conduct in his Regiments Affairs, and defraying the contingent Expenſe the Collonels are uſually at, in Supporting the C<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cerns and Intereſt of the Regiments: And it's very well known both by my Officers a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> others, that no Regiment in His Majeſties Service upon the <hi>Scots</hi> Eſtabliſhment, (with<g ref="char:EOLunhyphen"/>out derogation to one or other) was better Mounted, and appointed than my Regi<g ref="char:EOLunhyphen"/>ment always was upn all occaſions not ſo much as Combs to their Heads and Buckles their Shoes, but I provided them with, and looked after the Wellfare of the Souldiers if they had been my Children; and within eight Months of the Regiments Disbanding, Cloathed all of them with double Mounting, <hi>to wit,</hi> each Souldier with a new p<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Coat, red Coat, two Linen Shirts, a pair of Bretches, Shoes and Stockings, with ne<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Buff<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>belts, and Baginots and Patterntaſhes, and new Capes: And each Sergeant with new Scarlet Coat mounted with Gilded Buttons, and broad Gold Lace and other Furni<g ref="char:EOLunhyphen"/>ture conform; and after I had certain knowledge that the Regiment was to be Disban<g ref="char:EOLunhyphen"/>ded, I payed out 80 <hi>lib. ſterling</hi> for Cravates which I gave to my Officers to divide a<g ref="char:EOLunhyphen"/>mongſt the Souldiers to Incourage them, that if His Majeſtie ſhould after yard have oc<g ref="char:EOLunhyphen"/>caſion for them, they might the more willingly and readily Ingage in the Service: S<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that it appears not, by what Title the Complainers can pretend to the Remains of th<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Cloathing Money, if any were, that pertains of right to me as ſaid is.</p>
+            <p n="3">3. Your Petitioner can boldly affirm that there was never any Collonel in my circum<g ref="char:EOLunhyphen"/>ſtances more open handed and Liberal, both to the Officers and Souldiers than I was, i<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> regard that of-times when there was any thing ſaved in the Cloathing Money; I comple<g ref="char:EOLunhyphen"/>mented my Officers, in ſo far as, that at one time I beſtowed for 40 beaten ſilver Husk<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or Collars, and as many Silken Saſhes which coſt upwards of 1000 Crowns: And alſo at another time I beſtowed on my Sergeants, 26 Silver beaten hilted Swords, with Buff<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>belts and large Silver Buckles which coſt about 7 <hi>lib. ſterling per</hi> price, beſides ſeve<g ref="char:EOLunhyphen"/>ral conſiderable Gratifications in Money beſtowed on my ſaids Officers as I thought they beſt deſerved, and nothing thereof they ever did, or could acclaim as their Right; but I could have kept all in my own Pocket, and by which Acts of Liberality, I have Enriched my Officers, and Impoveriſhed my ſelf. And have alſo defrayed all the incident Charges that happened to befall the Regiment without exacting one Six<g ref="char:EOLhyphen"/>pence from my Officers, although I could have made them pay a part thereof if I had ſo pleaſed, even out of their own perſonal Pay, a great deal of it having been expended at their importunity, and for their deſigned and endeavoured good, and I can<g ref="char:EOLhyphen"/>not think that theſe my Deeds of Liberality, and Deſtributions on ſuch ſpecial conſidera<g ref="char:EOLhyphen"/>tions entitles the Complainers to challenge an Intereſt in the Remains of the Retention (if any were) whether I will or not, or otherways than as I was pleaſed to diſtribute the ſame.</p>
+            <p>And your Petitioner craves leave to be ſo juſt to lieutenant Collonel <hi>Forbes</hi> as to acknow<g ref="char:EOLhyphen"/>ledge, that the Money I gave him was for going five or ſix ſeveral times to <hi>London,</hi> and <hi>Flanders</hi> the Regiments errands; and doing the Regiment ſome very good offices, although <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his laſt journey his endeavours failed him, and ſome of which expences and errands, the Collonel humbly offers the following Accompt.</p>
+            <p n="1">1. In the year 1692, Lieutenant Collonel <hi>Forbes</hi> then Major to the Regiment, was ſe<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to <hi>London</hi> to repreſent the circumſtances of the Regiment and Gariſon of <hi>Fort-William</hi> and particularly that they had not a Miniſter to Preach the Goſpel, and that the E<g ref="char:EOLhyphen"/>ſtabliſhment of the Regiment wanting a Gunner and Matroſſes wherefore I was ne<g ref="char:EOLhyphen"/>ceſſitate
+<pb n="3" facs="tcp:175905:2"/>to apply the pay allotted for the Miniſter, To pay the Gunner and two Mattroſſes ſeing at that time the Clannes that were in Armes againſt the Government were not reduc<g ref="char:EOLhyphen"/>ed, and the Gariſon was invironed with Enemies on all hanos. And alſo to repreſent that the Poor Soldiers were in ſtraits through the want of Bed-cloths, and Fyring for the Guards and Drugs for uſe of the Soldiers, in which Journey the Lieutanant-Colonel was ſucceſsful, and procured His Majeſties moſt Gracious Letter to the Theſaury anent the ſaids matters; As alſo obtained an Addition of the Gunners Pay, to the Eſtabliſhment at the rate of five <hi>ſh. sterl per diem.</hi> And alſo 150 <hi>lib. sterl. per Annum,</hi> to buy Bed-Cloths to the Poor Soldiers; As alſo 100 <hi>lib. ſtirl.</hi> to buy Fyring, and 30 <hi>lib.</hi> to buy Drugs <hi>per Annum,</hi> in all time coming, during the ſtanding of the Regiment. And for which Journey, and ſo good Services, I only gave to my Lieutenant-Colonel 160 <hi>lib. ſterl.</hi> But he declared he ſpent 100 <hi>lib. sterl</hi> more of his proper Money, and no part of the 160 <hi>lib ſterl.</hi> came out of any of my Officers Pockets, but out of the Cloathing-Money.</p>
+            <p n="2">2. In the Year 1694, the Regiment laboured under great hardſhip, eſpecially the Poor Soldiers, becauſe of the Dearth of all Liquors, by reaſon of the heavy Exciſe, payed by the Brewers to Sir <hi>Thomas Kennedy,</hi> Tackimen of the Annexed Exciſe, and to <hi>Adam Gordon</hi> of Additional Exciſe, and to their Subtackſmen, ſo that a poor Soldier could not get a Pint of Ale under a Groat, and three ſhilling the worſt, which occaſioned the poor Sol<g ref="char:EOLhyphen"/>diers to drink the Water of the Place, which is truly either Brickiſh or Moſſie, and un<g ref="char:EOLhyphen"/>wholſome, whereby they contracted Fluxes and Scurvies, whereof many <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed, ſo that I Commiſſioned my Lieutenant-Colonel to go to <hi>London;</hi> becauſe I could not leave the Gariſon my ſelf, to repreſent the hard circumſtances of the Soldiers and he according<g ref="char:EOLunhyphen"/>ly went, and upon Audience of his Sacred Majeſty, obtained his Majeſties Letter, not only to exeem the Gariſon of <hi>Fort William,</hi> from payment of any Exciſe in all time coming, and to keep it out of all ſubſequent Tacks, but granted Warrand to the Lords of the The<g ref="char:EOLhyphen"/>ſaury to give Abatement to the Principal Tackſmen of the Exciſe of 90 <hi>lib. ſterling</hi> for that current Year, as the Copy of the Kings Letter. Dated the Day of <hi>February</hi> 1695 doth ver<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, with all which the Lords of the Theſaurie having complyed the 90 <hi>lib. ſterling</hi> was refounded, and the Gariſon freed from Exciſe thereafter. As alſo about the ſaid time the Fonds for the Armies Pay falling ſhort, the Lords of Theſaury did reduce the Regiment to half Pay, wherewith it had been impoſſible for them to ſubſiſt; ſo that I was neceſſitate to cauſe my Lieutenant-Colo<g ref="char:EOLhyphen"/>nel to ſtay at Couer, to repreſent the Difficulties the Regiment would <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ly under, if ſo dealt with, anent which his Majeſty was alſo graciouſly pleaſed to hear him fully: and al<g ref="char:EOLhyphen"/>though the Lieutenant Collonel met with much Oppoſition, ſome of the Collonels of the <hi>Scots</hi> Forces being then at Court, and inſinuating that the Gariſons Difficulties was not ſo great as was repreſented, only of purpoſe to diſappoint them of their Pretences, becauſe it was certain, the better and more Pay that Regiment got, though in contemplation of its hard circumſtances, the reſt of the Army would get leſs and worſe pay; yet after all. His Majeſty was graciouſly pleaſed to take the Regiments caſe to his Conſideration, and Ordain the Lords of Theſaury to make diſtinction in the payment, betwixt my Regiment <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the reſt of the Forces, and to pay the Regiment as formerly; as the Copy of his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſties Letter dated the 28 of <hi>February</hi> 1694, doth more fully narrate; and the Expenſe of this ſo long &amp; laborious an Expedition being exchange &amp; all 410 <hi>lib ſterling</hi> was alſo pay<g ref="char:EOLhyphen"/>ed out of the Cloathing-money, and no part thereof came out of the Officers Pockets although they were all benefited thereby, not only by having hail pay in place of half pay; but likewiſe both Officers and Souldiers, had the drinking their Liquors Exciſe free, and better and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heaper. And the ſaid 410 <hi>lib. ſterling</hi> being but the Lientenant Collonels neat Expen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, I leave it to any thinking perſon, if he deſerved not a Gratification beſide.</p>
+            <p n="3">3. In the year 1695, the Lieutenant Collonel, and one Captain <hi>Farquhar</hi> in the Collonels Regiment, went from the Gariſon to <hi>London,</hi> and from that to <hi>Flanders,</hi> and ſerved as Volunteers at the Siege of <hi>Namure</hi> and returned from <hi>Flanders</hi> by way of <hi>London,</hi> where the Lieutenant Collonel did the Regiment Service; and that Campaigne coſt him at leaſt is he declares, 500 <hi>lib. sterling</hi> before he returned to <hi>Scotland,</hi> but no man can ſay that he demanded any thing for his Service done to the Regiment at that time, and therefore I bare making mention of it.</p>
+            <p n="4">4. In the year 1697, when the Peace was concluding, the Officers of my Regiment at the Gariſon. Addreſt me to ſend Lieutenant Collonel <hi>Forbes</hi> to <hi>Flanders,</hi> to uſe his Intereſt &amp; Endeavours for the ſtanding of the Regiment: and they would hear of none to go but him,
+<pb n="4" facs="tcp:175905:3"/>becauſe he had formely been ſo ſucceſſful in obtaining favours for the Regiment and if I be not very much miſtaken, ſome of the compleaning Officers that were then <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Gariſon, went with ſeveral others of the Officers to <hi>Inverneſs</hi> where the Lieutennen<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Collonel was poſted, and importuned him to undertake the Negotiation and brought hi<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Gariſon, where all the Officers that were then preſent, unanimouſly ſolicited <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to let him go, which Solicitation I ſhifted, and purpoſed to divert the Offic<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from any ſuch Reſolution, aſſureing them that they behooved to pay all the Lieutennen<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Collonel his Expenſes out of their own Pockets, and one of the three complaining Offic<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> then anſwered with an ſolemn Oath, that he rather would pay his proportion of whatev<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Expenſes the Leutennant-Collonel would be at upon that occaſion out of his proper p<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> than that his Journey were longer retarded, for the ſooner he went away it would be <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> better; So becauſe of the Officers Importunity, I complyed with their deſire, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> next day with their unanimous conſent, diſpatched the Leiutennant-Collonel, and g<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him Inſtructions, with which he immediatly went to <hi>London,</hi> and from that to <hi>Flande<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> where the King and Court was, and there I believe my Leiutennent Collonel uſed his b<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Endeavours for the Regiments Intereſt, and came from <hi>Flanders</hi> to <hi>London,</hi> and then waited full four Moneths, hoping the beſt and fearing the worſt, and ſtill uſing his b<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Endeavours, altho' they proved unſucesful, and the very complaining Officers, would <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> allow him to diſpare of the Regiments ſtanding, but ſent him up Letters of Recommendat<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from their Friends, to great men at Court, and alwiſe adviſeing him to ſpare no Expen<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the Affair, which oblidged him to ſtay longer, and make new Attempts, which put h<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> aſſuredly to great Charges, and the Leutennent-Collonel his Expenſes in the ſaid Negotia<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on, amounted to 500, and odd <hi>lib, Serling</hi> only. The remander of the 720. <hi>lib.</hi> condeſce<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed on by the Complainers, was for the Exchange of the Bills, and a 100. <hi>lib,</hi> given to Capt<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Mackulloch,</hi> &amp; Captain <hi>Farquher,</hi> who were truely deſerving of it, upon ſeveral Conſideration<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> unneceſſary here to be mentioned, and no part of the ſaid 720. <hi>lib. ſterling,</hi> came out <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Officers their pockets nor was ſtopped of their pay, but was payed out of the Cloth<g ref="char:EOLhyphen"/>ing Money; And as to the 200. <hi>lib.</hi> complained of as received by the Leutennent-Col<g ref="char:EOLhyphen"/>lonel <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is all the Remuneration he received, for his extraordinary Toyl and Fati<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in going the Regiments Errands, and no part of the ſaid Sum came out of the Officers Pu<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but allennerly out of that Fond, which I could have applyed as I plea<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and the Lieutennent Collonel might have juſtly contended for more than <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Sum, in regaird, That 1. At at the modeling of the Regiment, the ſaid Lieutennent Collonel brought 600 Pee-coats, and as many Shoes and ſhirts to the Regiment, which <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never got any Allowance for, tho his ſaid doing ſaved a conſiderable Sum to the Regi<g ref="char:EOLhyphen"/>ment, and was the firſt occaſion of my having any Remains of the Cloathing Money. And 2. He gave the Granadeer Company 60 Bags, Badges, Paterntaſhes <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> B<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giners, at the value of 30 <hi>lib. ſterling.</hi> And 3. The ſaid Lieutenent-Collonel before <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Agent was imployed, he not only did the Regiments Buſineſs; and received the firſt <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Months Fay of the Reigment at <hi>Edinburgh,</hi> but likeways brought the ſame up upon <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own Charges and Expenſes to the Garriſon, for which I think he at leaſt ſhould have <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame Fees that the Agent hath had Monthly ſince that time, which will amount to no <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than 80 <hi>l<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. ſterling</hi> and upwards, and I might add to this a great many other Reaſons, wh<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is needleſs to trouble your Lordſhips with; &amp; if I were to make an Accompt of the Advanta<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Caſualities that ſome of the complaining Officers have had ſince their coming to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reigment, and that with very litle trouble or Fatigue, (whereof neither the Lieutenent C<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lonel nor I neither had nor could have any ſhare) your Lordſhips would find them very <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> kind &amp; now how this groundleſs Complaint comes about, is to me a matter of Admiratio<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. F<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r at the clearing and disbanding of the Regiment, there was not the leaſt Mention of a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſuch Complaint, but on the contrair. And of 200 or 300 <hi>lib.</hi> that remained of Ballan<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the cloathing Money, I gave to the commanding Officers of each Compa<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſome part grtutioſlie, as will appear by theſtated Accompts in their own hands, not ſo mu<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> very Pole-Money, Agent Fees, and a great part of their Pondage, but I payed:</p>
+            <p>May it therefore pleaſe your Lordſhips, not only to Aſſoilȝie your Petitioner fro<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch a grundleſs and unkind complaint; But alſo to abſolve Lieutenant-Collonel <hi>F<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bes</hi> and the Agent, That they may not ſuſtain any trouble or loſs, through the moſt faith<g ref="char:EOLhyphen"/>ful ſervices, which they have not only done to your Petitioner; But likeways to t<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Regiment. <hi>And your Petitioner ſhall ever pray.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Sic Subſcribi<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> John Hi<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
